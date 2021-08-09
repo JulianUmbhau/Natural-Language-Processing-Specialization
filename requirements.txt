@@ -5,3 +5,5 @@ utils
 ipykernel
 sklearn
 nltk
+scipy
+gensim
